@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DfSoft.MARC", "DfSoft.MARC\DfSoft.MARC.csproj", "{C3BEDFCC-E760-4619-A356-6D7CDFB01664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{66BFD1B6-8FDC-48F4-BE53-9AF02C9BB722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3BEDFCC-E760-4619-A356-6D7CDFB01664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BEDFCC-E760-4619-A356-6D7CDFB01664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BEDFCC-E760-4619-A356-6D7CDFB01664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BEDFCC-E760-4619-A356-6D7CDFB01664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BFD1B6-8FDC-48F4-BE53-9AF02C9BB722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BFD1B6-8FDC-48F4-BE53-9AF02C9BB722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BFD1B6-8FDC-48F4-BE53-9AF02C9BB722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BFD1B6-8FDC-48F4-BE53-9AF02C9BB722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF8ED93-2D90-45B8-A142-841E339329D0}
+	EndGlobalSection
+EndGlobal
